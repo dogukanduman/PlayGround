@@ -2,7 +2,7 @@
 * First you need to run build.sh to build and generate JARS for Player and PlayGroundService
  `build.sh`
 # Player
-## What it do
+## What it does
 * Player is simple client which communicate with other players via PlayerGroundService
 * Players can register  or unregister to PlayGroundService
 * Players can message to each other
@@ -28,7 +28,7 @@
 * Player closes when can not find anyone to speak in 3 seconds
 
 # PlayGroundService
-## What it do
+## What it does
 * PlayGround is responsible for registering and messaging between players
 * Players can register to or unregister from PlayGroundService
 * Players can message to each other via PlayGroundService.
