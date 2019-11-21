@@ -25,7 +25,7 @@
 	 `player.sh 5003 PLAYER3 6 4 Hi!!`
 	 `player.sh 5004 PLAYER4 18 2 Hi!!`
 * Most importing thing you should start **PlayGroundService** **first**
-* Player closes when can not find anyone to speak in 3 seconds
+* Player closes the connection when can not find anyone to speak in 3 seconds
 
 # PlayGroundService
 ## What it does
